@@ -26,7 +26,10 @@ from datetime import datetime
 import json
 from sys import argv
 
-buy_button = (830, 2025)
+# mix2s
+# buy_button = (830, 2025)
+# note
+buy_button = (879, 1835)
 time_format = "%Y-%m-%d %H:%M:%S.%f"
 try:
     buy_time = argv[1]
